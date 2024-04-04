@@ -1,0 +1,19 @@
+#first{
+    height: 250px;
+    width: 250px ;
+    background-color: cadetblue;
+    color: white;
+}
+
+
+.para{
+    background-color: rgb(138, 30, 210);
+    font-style: italic; 
+    color: beige;
+}
+.newClass{
+    background-color: cyan;
+    color: black;
+    font-size: larger;
+
+}
